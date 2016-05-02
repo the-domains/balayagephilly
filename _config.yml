@@ -1,0 +1,28 @@
+name: BalayagePhilly
+favicon: null
+layout_spectrum: 0.5212906007654965
+typography_spectrum: 0.037547532469034195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9286995530128479
+  lightness: 0.3934030691161752
+  saturation: 0.29535010806284845
+  rhythmicContrast: 0.2528879540041089
+purpose: []
