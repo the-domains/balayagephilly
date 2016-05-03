@@ -1,9 +1,7 @@
-favicon: null
 name: BalayagePhilly
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4498208
+typography_spectrum: 0.9318997
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.2953501080628484
-  brandStrength: 0.9286995530128479
-  lightness: 0.3934030691161752
-  brandColors:
-    - '#F1F1E9'
-    - '#1C1B19'
-    - '#D2AF8F'
-    - '#9B7159'
-    - '#6B4A37'
-  rhythmicContrast: 0.2528879540041089
-typography_spectrum: 0.9318997
-layout_spectrum: 0.4498208
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#ca1111'
+    - '#131313'
+    - '#575757'
+    - '#de6d6c'
+  brandStrength: 0.9286995530128479
+  lightness: 0.3934030691161752
+  saturation: 0.2953501080628484
+  rhythmicContrast: 0.2528879540041089
+purpose: []
